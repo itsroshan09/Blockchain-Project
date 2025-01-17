@@ -1,0 +1,40 @@
+{
+  "transaction_details": {
+    "transactionHash": "0x35b7dadc966605b5c544a10260631108880b471f765798345aeda7e9a10a4677",
+    "blockExplorer": "https://sepolia.etherscan.io/tx/0x35b7dadc966605b5c544a10260631108880b471f765798345aeda7e9a10a4677",
+    "createdContractAddress": "0xD3E89D6a85DD6b0F338E8a9D212890D612E44c7A",
+    "transactionID": "67805295b8e2af1b66439346",
+    "status": "Sent"
+  }
+}
+
+
+
+
+
+{
+  "collection_contracts_created": {
+    "user": "khobareaniket2006@gmail.com",
+    "number of contracts": 1,
+    "contracts": [
+      {
+        "user": "677feed481d32f5590d17e8c",
+        "status": "Successful",
+        "command": "nft.deploy.simple",
+        "transactionHash": "0x35b7dadc966605b5c544a10260631108880b471f765798345aeda7e9a10a4677",
+        "chain": "sepolia",
+        "contractName": "TestContractName",
+        "contractSymbol": "TestSymbol",
+        "creatorAddress": "0xD0abCB79b0a8EE4196F61833353300174254aA86",
+        "createdContractAddress": "0xD3E89D6a85DD6b0F338E8a9D212890D612E44c7A",
+        "ownerAddress": "0xD0abCB79b0a8EE4196F61833353300174254aA86",
+        "contractType": "nft721",
+        "transactionType": "deploy",
+        "transaction": "67805295b8e2af1b66439346",
+        "dateCreated": "2025-01-09T22:50:10.918Z",
+        "createdAt": "2025-01-09T22:50:10.921Z",
+        "id": "678052a2b8e2af1b66439352"
+      }
+    ]
+  }
+}

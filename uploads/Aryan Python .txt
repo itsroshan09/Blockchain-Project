@@ -1,0 +1,30 @@
+1. Features of Python
+2.Rules for Identifiers and Defination
+3.Types of Comments - Single line and Multi-line Comments
+4. Data Types in Python (All)
+	i.Defination
+	ii.Syntax
+	iii.example
+	example:
+		a.Tuple
+			answer:
+				defination:A tuple is an ordered collection of items.Tuples are 
+						   immutable. values cannot be changed.
+				Syntax:
+						Variable_name = (values)
+				example:
+						a = (10,20)
+5. Types of Operator
+6. Decision Making: if, elif, else Statements
+7. Looping in Python
+8. Functions in Python (Types)
+9. Modules in Python
+10. What is GUI Programming in Python,tools
+11. what is Tkinter, Layout Management in Tkinter, Creating GUI Widgets with Tkinter, Creating GUI Using Turtle Graphics
+12. declaration of radiobox and checkbox,Dialog box with example
+13. what is Exception Handling and Types of Exception Handling,,try-except Statement,The raise Statement use of raise statement
+14.  File Handling Modes,use of read,readline,readlines with syntax and example
+15. write a program to read and write contents
+16. functions to Renaming & Deleting Files
+17. how to create a directory,list of directory,Remove directory
+18. What is NumPy and Pandas , use,Syntax,example
